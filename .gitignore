@@ -1,6 +1,5 @@
-# collected and processed data is never committed (see data/README.md)
-data/*
-!data/README.md
+# collected data is never committed
+data/
 
 # secrets
 .env
@@ -25,3 +24,4 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+

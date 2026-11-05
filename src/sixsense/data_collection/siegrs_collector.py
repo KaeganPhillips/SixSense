@@ -2,12 +2,12 @@
 # Kaegan Phillips
 # September 18, 2026
 #
-# siegrs.py
+# siegrs_collector.py
 #
 # Collects player data from the SIEGRS API and saves players with Ubisoft-valid
 # usernames to an output CSV file.
 #
-# Usage: python -m sixsense.data_collection.siegrs [--start-page N]
+# Usage: python -m sixsense.data_collection.siegrs_collector [--start-page N]
 ###############################################################################
 
 import argparse
@@ -17,13 +17,14 @@ import time
 
 import requests
 
-from sixsense.config import RAW_USERNAMES_DIR
+from sixsense.config import RAW_DIR
+from sixsense.data_collection.username_validation import check_valid_username
 
 #------------------------------------------------------------------------------
 PLAYERS_ENDPOINT = "https://siegrs.gg/api/players"
 DEFAULT_PARAMS = {"availability": "all"}
 
-OUTPUT_CSV_FILE = RAW_USERNAMES_DIR / "siegrs_players.csv"
+OUTPUT_CSV_FILE = RAW_DIR / "siegrs_players.csv"
 
 # rank tiers in order of increasing skill level
 RANK_TIERS = [
@@ -128,34 +129,6 @@ def collect_players(page):
             continue
 
     return valid_players
-
-#------------------------------------------------------------------------------
-def check_valid_username(username):
-    '''
-    Method to check if a username is valid according to Ubisoft's criteria:
-
-    1. Be 3 to 15 characters long.
-    2. Start with a letter.
-    3. Only contain letters, numbers, and the following punctuation:
-       underscore (_), dash (-), and period (.).
-
-    username: a username to validate
-    return: True if the username is valid, False otherwise
-    '''
-    # ensure length is valid
-    if not (3 <= len(username) <= 15):
-        return False
-
-    # ensure first character is a letter
-    if not username[0].isalpha():
-        return False
-
-    # ensure all characters are valid
-    for char in username:
-        if not (char.isalnum() or char in {'_', '-', '.'}):
-            return False
-
-    return True
 
 #------------------------------------------------------------------------------
 def parse_rank(rank_name):
@@ -291,3 +264,4 @@ def main():
 #------------------------------------------------------------------------------
 if __name__ == "__main__":
     main()
+
