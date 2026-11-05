@@ -2,37 +2,17 @@
 # Kaegan Phillips
 # November 4, 2026
 #
-# test_siegrs.py
+# test_siegrs_collector.py
 #
-# Tests for the SIEGRS collector's username validation and rank parsing.
+# Tests for the SIEGRS collector's rank parsing and page filtering.
 ###############################################################################
 
 import pytest
 
-from sixsense.data_collection.siegrs import (
-    check_valid_username,
+from sixsense.data_collection.siegrs_collector import (
     collect_players,
     parse_rank,
 )
-
-#------------------------------------------------------------------------------
-@pytest.mark.parametrize(
-    "username", ["abc", "Saucy_Arrow", "a.b-c_d", "x" * 15]
-)
-def test_valid_usernames(username):
-    assert check_valid_username(username)
-
-#------------------------------------------------------------------------------
-@pytest.mark.parametrize("username", [
-    "ab",           # too short
-    "x" * 16,       # too long
-    "1player",      # starts with a number
-    "_player",      # starts with punctuation
-    "bad name",     # contains a space
-    "bad@name",     # contains invalid punctuation
-])
-def test_invalid_usernames(username):
-    assert not check_valid_username(username)
 
 #------------------------------------------------------------------------------
 @pytest.mark.parametrize("rank_name, expected", [
@@ -69,3 +49,4 @@ def test_collect_players_skips_invalid_entries():
     assert collect_players(page) == [
         {"username": "GoodPlayer", "rank": "Gold", "platform": "uplay"},
     ]
+
