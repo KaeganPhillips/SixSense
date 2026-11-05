@@ -1,0 +1,2300 @@
+{
+  "player": {
+    "nameOnPlatform": "Saucy_Arrow",
+    "platformType": "uplay"
+  },
+  "filters": {
+    "seasonYear": "all",
+    "modes": "ranked"
+  },
+  "fullStats": {
+    "operators": [
+      {
+        "kd": 0.77,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 135,
+        "kills": 184,
+        "deaths": 238,
+        "losses": 195,
+        "assists": 52,
+        "kills1K": 106,
+        "kills2K": 28,
+        "kills3K": 6,
+        "kills4K": 1,
+        "kills5K": 0,
+        "clutches": 5,
+        "operator": "Thermite",
+        "headshots": 99,
+        "teamKills": 5,
+        "matchesWon": 95,
+        "timePlayed": "92h",
+        "winPercent": 40.91,
+        "firstBloods": 19,
+        "firstDeaths": 14,
+        "matchesLost": 100,
+        "clutchesLost": 38,
+        "killsPerGame": 0.94,
+        "roundsPlayed": 330,
+        "timePlayedMs": 332669259,
+        "killsPerRound": 0.56,
+        "matchesPlayed": 196,
+        "deathsPerRound": 0.72,
+        "assistsPerRound": 0.16,
+        "headshotPercent": 53.8,
+        "matchWinPercent": 48.47,
+        "headshotsPerRound": 0.3
+      },
+      {
+        "kd": 0.75,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 123,
+        "kills": 161,
+        "deaths": 215,
+        "losses": 157,
+        "assists": 41,
+        "kills1K": 77,
+        "kills2K": 23,
+        "kills3K": 10,
+        "kills4K": 2,
+        "kills5K": 0,
+        "clutches": 2,
+        "operator": "Buck",
+        "headshots": 104,
+        "teamKills": 1,
+        "matchesWon": 75,
+        "timePlayed": "82h",
+        "winPercent": 43.93,
+        "firstBloods": 18,
+        "firstDeaths": 16,
+        "matchesLost": 88,
+        "clutchesLost": 33,
+        "killsPerGame": 0.98,
+        "roundsPlayed": 280,
+        "timePlayedMs": 297875463,
+        "killsPerRound": 0.57,
+        "matchesPlayed": 165,
+        "deathsPerRound": 0.77,
+        "assistsPerRound": 0.15,
+        "headshotPercent": 64.6,
+        "matchWinPercent": 45.45,
+        "headshotsPerRound": 0.37
+      },
+      {
+        "kd": 1.07,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 158,
+        "kills": 218,
+        "deaths": 203,
+        "losses": 118,
+        "assists": 61,
+        "kills1K": 87,
+        "kills2K": 42,
+        "kills3K": 13,
+        "kills4K": 2,
+        "kills5K": 0,
+        "clutches": 4,
+        "operator": "Vigil",
+        "headshots": 138,
+        "teamKills": 0,
+        "matchesWon": 88,
+        "timePlayed": "85h",
+        "winPercent": 57.25,
+        "firstBloods": 41,
+        "firstDeaths": 30,
+        "matchesLost": 87,
+        "clutchesLost": 26,
+        "killsPerGame": 1.25,
+        "roundsPlayed": 276,
+        "timePlayedMs": 307122831,
+        "killsPerRound": 0.79,
+        "matchesPlayed": 175,
+        "deathsPerRound": 0.74,
+        "assistsPerRound": 0.22,
+        "headshotPercent": 63.3,
+        "matchWinPercent": 50.29,
+        "headshotsPerRound": 0.5
+      },
+      {
+        "kd": 0.72,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 118,
+        "kills": 120,
+        "deaths": 167,
+        "losses": 104,
+        "assists": 46,
+        "kills1K": 61,
+        "kills2K": 19,
+        "kills3K": 7,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 4,
+        "operator": "Mute",
+        "headshots": 71,
+        "teamKills": 1,
+        "matchesWon": 74,
+        "timePlayed": "74h",
+        "winPercent": 53.15,
+        "firstBloods": 12,
+        "firstDeaths": 19,
+        "matchesLost": 79,
+        "clutchesLost": 20,
+        "killsPerGame": 0.78,
+        "roundsPlayed": 222,
+        "timePlayedMs": 267713149,
+        "killsPerRound": 0.54,
+        "matchesPlayed": 153,
+        "deathsPerRound": 0.75,
+        "assistsPerRound": 0.21,
+        "headshotPercent": 59.17,
+        "matchWinPercent": 48.37,
+        "headshotsPerRound": 0.32
+      },
+      {
+        "kd": 0.84,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 108,
+        "kills": 112,
+        "deaths": 133,
+        "losses": 83,
+        "assists": 71,
+        "kills1K": 60,
+        "kills2K": 18,
+        "kills3K": 4,
+        "kills4K": 1,
+        "kills5K": 0,
+        "clutches": 4,
+        "operator": "Lesion",
+        "headshots": 75,
+        "teamKills": 0,
+        "matchesWon": 63,
+        "timePlayed": "64h",
+        "winPercent": 56.54,
+        "firstBloods": 15,
+        "firstDeaths": 18,
+        "matchesLost": 59,
+        "clutchesLost": 13,
+        "killsPerGame": 0.91,
+        "roundsPlayed": 191,
+        "timePlayedMs": 230461465,
+        "killsPerRound": 0.59,
+        "matchesPlayed": 123,
+        "deathsPerRound": 0.7,
+        "assistsPerRound": 0.37,
+        "headshotPercent": 66.96,
+        "matchWinPercent": 51.22,
+        "headshotsPerRound": 0.39
+      },
+      {
+        "kd": 0.73,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 50,
+        "kills": 63,
+        "deaths": 86,
+        "losses": 70,
+        "assists": 19,
+        "kills1K": 29,
+        "kills2K": 11,
+        "kills3K": 4,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 2,
+        "operator": "Rauora",
+        "headshots": 31,
+        "teamKills": 0,
+        "matchesWon": 42,
+        "timePlayed": "44h",
+        "winPercent": 41.67,
+        "firstBloods": 6,
+        "firstDeaths": 10,
+        "matchesLost": 44,
+        "clutchesLost": 11,
+        "killsPerGame": 0.72,
+        "roundsPlayed": 120,
+        "timePlayedMs": 159178372,
+        "killsPerRound": 0.53,
+        "matchesPlayed": 87,
+        "deathsPerRound": 0.72,
+        "assistsPerRound": 0.16,
+        "headshotPercent": 49.21,
+        "matchWinPercent": 48.28,
+        "headshotsPerRound": 0.26
+      },
+      {
+        "kd": 0.84,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 64,
+        "kills": 69,
+        "deaths": 82,
+        "losses": 51,
+        "assists": 22,
+        "kills1K": 33,
+        "kills2K": 13,
+        "kills3K": 2,
+        "kills4K": 1,
+        "kills5K": 0,
+        "clutches": 3,
+        "operator": "Castle",
+        "headshots": 38,
+        "teamKills": 0,
+        "matchesWon": 37,
+        "timePlayed": "41h",
+        "winPercent": 55.65,
+        "firstBloods": 6,
+        "firstDeaths": 8,
+        "matchesLost": 44,
+        "clutchesLost": 8,
+        "killsPerGame": 0.85,
+        "roundsPlayed": 115,
+        "timePlayedMs": 150811630,
+        "killsPerRound": 0.6,
+        "matchesPlayed": 81,
+        "deathsPerRound": 0.71,
+        "assistsPerRound": 0.19,
+        "headshotPercent": 55.07,
+        "matchWinPercent": 45.68,
+        "headshotsPerRound": 0.33
+      },
+      {
+        "kd": 0.9,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 48,
+        "kills": 57,
+        "deaths": 63,
+        "losses": 43,
+        "assists": 16,
+        "kills1K": 29,
+        "kills2K": 8,
+        "kills3K": 4,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 5,
+        "operator": "Osa",
+        "headshots": 38,
+        "teamKills": 0,
+        "matchesWon": 34,
+        "timePlayed": "31h",
+        "winPercent": 52.75,
+        "firstBloods": 8,
+        "firstDeaths": 9,
+        "matchesLost": 29,
+        "clutchesLost": 9,
+        "killsPerGame": 0.9,
+        "roundsPlayed": 91,
+        "timePlayedMs": 114471771,
+        "killsPerRound": 0.63,
+        "matchesPlayed": 63,
+        "deathsPerRound": 0.69,
+        "assistsPerRound": 0.18,
+        "headshotPercent": 66.67,
+        "matchWinPercent": 53.97,
+        "headshotsPerRound": 0.42
+      },
+      {
+        "kd": 0.77,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 26,
+        "kills": 20,
+        "deaths": 26,
+        "losses": 14,
+        "assists": 12,
+        "kills1K": 12,
+        "kills2K": 4,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 1,
+        "operator": "J\u00e4ger",
+        "headshots": 11,
+        "teamKills": 0,
+        "matchesWon": 19,
+        "timePlayed": "18h",
+        "winPercent": 65,
+        "firstBloods": 1,
+        "firstDeaths": 4,
+        "matchesLost": 16,
+        "clutchesLost": 2,
+        "killsPerGame": 0.57,
+        "roundsPlayed": 40,
+        "timePlayedMs": 65539685,
+        "killsPerRound": 0.5,
+        "matchesPlayed": 35,
+        "deathsPerRound": 0.65,
+        "assistsPerRound": 0.3,
+        "headshotPercent": 55,
+        "matchWinPercent": 54.29,
+        "headshotsPerRound": 0.28
+      },
+      {
+        "kd": 0.71,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 15,
+        "kills": 17,
+        "deaths": 24,
+        "losses": 20,
+        "assists": 6,
+        "kills1K": 13,
+        "kills2K": 2,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Ying",
+        "headshots": 9,
+        "teamKills": 0,
+        "matchesWon": 14,
+        "timePlayed": "14h",
+        "winPercent": 42.86,
+        "firstBloods": 4,
+        "firstDeaths": 0,
+        "matchesLost": 14,
+        "clutchesLost": 4,
+        "killsPerGame": 0.59,
+        "roundsPlayed": 35,
+        "timePlayedMs": 53888408,
+        "killsPerRound": 0.49,
+        "matchesPlayed": 29,
+        "deathsPerRound": 0.69,
+        "assistsPerRound": 0.17,
+        "headshotPercent": 52.94,
+        "matchWinPercent": 48.28,
+        "headshotsPerRound": 0.26
+      },
+      {
+        "kd": 0.89,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 12,
+        "kills": 16,
+        "deaths": 18,
+        "losses": 12,
+        "assists": 4,
+        "kills1K": 10,
+        "kills2K": 3,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Blackbeard",
+        "headshots": 6,
+        "teamKills": 0,
+        "matchesWon": 9,
+        "timePlayed": "10h 50m",
+        "winPercent": 50,
+        "firstBloods": 1,
+        "firstDeaths": 2,
+        "matchesLost": 11,
+        "clutchesLost": 1,
+        "killsPerGame": 0.8,
+        "roundsPlayed": 24,
+        "timePlayedMs": 39021701,
+        "killsPerRound": 0.67,
+        "matchesPlayed": 20,
+        "deathsPerRound": 0.75,
+        "assistsPerRound": 0.17,
+        "headshotPercent": 37.5,
+        "matchWinPercent": 45,
+        "headshotsPerRound": 0.25
+      },
+      {
+        "kd": 0.62,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 10,
+        "kills": 8,
+        "deaths": 13,
+        "losses": 8,
+        "assists": 1,
+        "kills1K": 6,
+        "kills2K": 1,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Ash",
+        "headshots": 6,
+        "teamKills": 0,
+        "matchesWon": 7,
+        "timePlayed": "6h 07m",
+        "winPercent": 55.56,
+        "firstBloods": 2,
+        "firstDeaths": 1,
+        "matchesLost": 7,
+        "clutchesLost": 2,
+        "killsPerGame": 0.57,
+        "roundsPlayed": 18,
+        "timePlayedMs": 22062222,
+        "killsPerRound": 0.44,
+        "matchesPlayed": 14,
+        "deathsPerRound": 0.72,
+        "assistsPerRound": 0.06,
+        "headshotPercent": 75,
+        "matchWinPercent": 50,
+        "headshotsPerRound": 0.33
+      },
+      {
+        "kd": 0.29,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 7,
+        "kills": 4,
+        "deaths": 14,
+        "losses": 10,
+        "assists": 1,
+        "kills1K": 2,
+        "kills2K": 1,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Thatcher",
+        "headshots": 1,
+        "teamKills": 0,
+        "matchesWon": 5,
+        "timePlayed": "7h 02m",
+        "winPercent": 41.18,
+        "firstBloods": 0,
+        "firstDeaths": 3,
+        "matchesLost": 10,
+        "clutchesLost": 2,
+        "killsPerGame": 0.27,
+        "roundsPlayed": 17,
+        "timePlayedMs": 25354890,
+        "killsPerRound": 0.24,
+        "matchesPlayed": 15,
+        "deathsPerRound": 0.82,
+        "assistsPerRound": 0.06,
+        "headshotPercent": 25,
+        "matchWinPercent": 33.33,
+        "headshotsPerRound": 0.06
+      },
+      {
+        "kd": 1.75,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 11,
+        "kills": 14,
+        "deaths": 8,
+        "losses": 5,
+        "assists": 4,
+        "kills1K": 6,
+        "kills2K": 1,
+        "kills3K": 2,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Frost",
+        "headshots": 6,
+        "teamKills": 0,
+        "matchesWon": 3,
+        "timePlayed": "7h 36m",
+        "winPercent": 68.75,
+        "firstBloods": 1,
+        "firstDeaths": 1,
+        "matchesLost": 12,
+        "clutchesLost": 0,
+        "killsPerGame": 0.93,
+        "roundsPlayed": 16,
+        "timePlayedMs": 27407003,
+        "killsPerRound": 0.88,
+        "matchesPlayed": 15,
+        "deathsPerRound": 0.5,
+        "assistsPerRound": 0.25,
+        "headshotPercent": 42.86,
+        "matchWinPercent": 20,
+        "headshotsPerRound": 0.38
+      },
+      {
+        "kd": 0.45,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 8,
+        "kills": 5,
+        "deaths": 11,
+        "losses": 6,
+        "assists": 10,
+        "kills1K": 3,
+        "kills2K": 1,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Thorn",
+        "headshots": 2,
+        "teamKills": 0,
+        "matchesWon": 5,
+        "timePlayed": "5h 14m",
+        "winPercent": 57.14,
+        "firstBloods": 1,
+        "firstDeaths": 4,
+        "matchesLost": 5,
+        "clutchesLost": 0,
+        "killsPerGame": 0.5,
+        "roundsPlayed": 14,
+        "timePlayedMs": 18878786,
+        "killsPerRound": 0.36,
+        "matchesPlayed": 10,
+        "deathsPerRound": 0.79,
+        "assistsPerRound": 0.71,
+        "headshotPercent": 40,
+        "matchWinPercent": 50,
+        "headshotsPerRound": 0.14
+      },
+      {
+        "kd": 0.88,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 8,
+        "kills": 7,
+        "deaths": 8,
+        "losses": 5,
+        "assists": 2,
+        "kills1K": 7,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Ela",
+        "headshots": 7,
+        "teamKills": 0,
+        "matchesWon": 4,
+        "timePlayed": "6h 00m",
+        "winPercent": 61.54,
+        "firstBloods": 2,
+        "firstDeaths": 0,
+        "matchesLost": 7,
+        "clutchesLost": 0,
+        "killsPerGame": 0.64,
+        "roundsPlayed": 13,
+        "timePlayedMs": 21611548,
+        "killsPerRound": 0.54,
+        "matchesPlayed": 11,
+        "deathsPerRound": 0.62,
+        "assistsPerRound": 0.15,
+        "headshotPercent": 100,
+        "matchWinPercent": 36.36,
+        "headshotsPerRound": 0.54
+      },
+      {
+        "kd": 1.14,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 6,
+        "kills": 8,
+        "deaths": 7,
+        "losses": 5,
+        "assists": 3,
+        "kills1K": 3,
+        "kills2K": 1,
+        "kills3K": 1,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Caveira",
+        "headshots": 2,
+        "teamKills": 0,
+        "matchesWon": 4,
+        "timePlayed": "3h 11m",
+        "winPercent": 54.55,
+        "firstBloods": 2,
+        "firstDeaths": 0,
+        "matchesLost": 3,
+        "clutchesLost": 2,
+        "killsPerGame": 1.14,
+        "roundsPlayed": 11,
+        "timePlayedMs": 11518714,
+        "killsPerRound": 0.73,
+        "matchesPlayed": 7,
+        "deathsPerRound": 0.64,
+        "assistsPerRound": 0.27,
+        "headshotPercent": 25,
+        "matchWinPercent": 57.14,
+        "headshotsPerRound": 0.18
+      },
+      {
+        "kd": 0.29,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 4,
+        "kills": 2,
+        "deaths": 7,
+        "losses": 5,
+        "assists": 1,
+        "kills1K": 2,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Bandit",
+        "headshots": 1,
+        "teamKills": 0,
+        "matchesWon": 7,
+        "timePlayed": "4h 55m",
+        "winPercent": 44.44,
+        "firstBloods": 0,
+        "firstDeaths": 1,
+        "matchesLost": 2,
+        "clutchesLost": 0,
+        "killsPerGame": 0.22,
+        "roundsPlayed": 9,
+        "timePlayedMs": 17700685,
+        "killsPerRound": 0.22,
+        "matchesPlayed": 9,
+        "deathsPerRound": 0.78,
+        "assistsPerRound": 0.11,
+        "headshotPercent": 50,
+        "matchWinPercent": 77.78,
+        "headshotsPerRound": 0.11
+      },
+      {
+        "kd": 0.75,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 4,
+        "kills": 6,
+        "deaths": 8,
+        "losses": 5,
+        "assists": 4,
+        "kills1K": 4,
+        "kills2K": 1,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Valkyrie",
+        "headshots": 5,
+        "teamKills": 0,
+        "matchesWon": 4,
+        "timePlayed": "4h 00m",
+        "winPercent": 44.44,
+        "firstBloods": 1,
+        "firstDeaths": 1,
+        "matchesLost": 5,
+        "clutchesLost": 0,
+        "killsPerGame": 0.67,
+        "roundsPlayed": 9,
+        "timePlayedMs": 14409941,
+        "killsPerRound": 0.67,
+        "matchesPlayed": 9,
+        "deathsPerRound": 0.89,
+        "assistsPerRound": 0.44,
+        "headshotPercent": 83.33,
+        "matchWinPercent": 44.44,
+        "headshotsPerRound": 0.56
+      },
+      {
+        "kd": 0.67,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 5,
+        "kills": 4,
+        "deaths": 6,
+        "losses": 3,
+        "assists": 5,
+        "kills1K": 2,
+        "kills2K": 1,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Kapkan",
+        "headshots": 2,
+        "teamKills": 1,
+        "matchesWon": 3,
+        "timePlayed": "3h 44m",
+        "winPercent": 62.5,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 4,
+        "clutchesLost": 1,
+        "killsPerGame": 0.57,
+        "roundsPlayed": 8,
+        "timePlayedMs": 13440606,
+        "killsPerRound": 0.5,
+        "matchesPlayed": 7,
+        "deathsPerRound": 0.75,
+        "assistsPerRound": 0.63,
+        "headshotPercent": 50,
+        "matchWinPercent": 42.86,
+        "headshotsPerRound": 0.25
+      },
+      {
+        "kd": 0.8,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 2,
+        "kills": 4,
+        "deaths": 5,
+        "losses": 4,
+        "assists": 1,
+        "kills1K": 2,
+        "kills2K": 1,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Nomad",
+        "headshots": 3,
+        "teamKills": 0,
+        "matchesWon": 2,
+        "timePlayed": "1h 47m",
+        "winPercent": 33.33,
+        "firstBloods": 0,
+        "firstDeaths": 1,
+        "matchesLost": 2,
+        "clutchesLost": 2,
+        "killsPerGame": 1,
+        "roundsPlayed": 6,
+        "timePlayedMs": 6420945,
+        "killsPerRound": 0.67,
+        "matchesPlayed": 4,
+        "deathsPerRound": 0.83,
+        "assistsPerRound": 0.17,
+        "headshotPercent": 75,
+        "matchWinPercent": 50,
+        "headshotsPerRound": 0.5
+      },
+      {
+        "kd": 2,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 3,
+        "kills": 6,
+        "deaths": 3,
+        "losses": 3,
+        "assists": 2,
+        "kills1K": 1,
+        "kills2K": 1,
+        "kills3K": 1,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Fuze",
+        "headshots": 1,
+        "teamKills": 0,
+        "matchesWon": 2,
+        "timePlayed": "2h 25m",
+        "winPercent": 50,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 3,
+        "clutchesLost": 2,
+        "killsPerGame": 1.2,
+        "roundsPlayed": 6,
+        "timePlayedMs": 8749490,
+        "killsPerRound": 1,
+        "matchesPlayed": 5,
+        "deathsPerRound": 0.5,
+        "assistsPerRound": 0.33,
+        "headshotPercent": 16.67,
+        "matchWinPercent": 40,
+        "headshotsPerRound": 0.17
+      },
+      {
+        "kd": 0.2,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 0,
+        "kills": 1,
+        "deaths": 5,
+        "losses": 5,
+        "assists": 1,
+        "kills1K": 1,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Rook",
+        "headshots": 1,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "2h 11m",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 1,
+        "matchesLost": 5,
+        "clutchesLost": 0,
+        "killsPerGame": 0.2,
+        "roundsPlayed": 5,
+        "timePlayedMs": 7877203,
+        "killsPerRound": 0.2,
+        "matchesPlayed": 5,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0.2,
+        "headshotPercent": 100,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0.2
+      },
+      {
+        "kd": 1,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 3,
+        "kills": 3,
+        "deaths": 3,
+        "losses": 2,
+        "assists": 1,
+        "kills1K": 1,
+        "kills2K": 1,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Mira",
+        "headshots": 3,
+        "teamKills": 0,
+        "matchesWon": 2,
+        "timePlayed": "1h 58m",
+        "winPercent": 60,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 3,
+        "clutchesLost": 1,
+        "killsPerGame": 0.6,
+        "roundsPlayed": 5,
+        "timePlayedMs": 7082833,
+        "killsPerRound": 0.6,
+        "matchesPlayed": 5,
+        "deathsPerRound": 0.6,
+        "assistsPerRound": 0.2,
+        "headshotPercent": 100,
+        "matchWinPercent": 40,
+        "headshotsPerRound": 0.6
+      },
+      {
+        "kd": 0.5,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 1,
+        "kills": 1,
+        "deaths": 2,
+        "losses": 2,
+        "assists": 0,
+        "kills1K": 1,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Ace",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 2,
+        "timePlayed": "1h 30m",
+        "winPercent": 33.33,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 0.33,
+        "roundsPlayed": 3,
+        "timePlayedMs": 5450068,
+        "killsPerRound": 0.33,
+        "matchesPlayed": 3,
+        "deathsPerRound": 0.67,
+        "assistsPerRound": 0,
+        "headshotPercent": 0,
+        "matchWinPercent": 66.67,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 0,
+        "kills": 0,
+        "deaths": 1,
+        "losses": 2,
+        "assists": 1,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Iana",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "43m 37s",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 2,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 2,
+        "timePlayedMs": 2617303,
+        "killsPerRound": 0,
+        "matchesPlayed": 2,
+        "deathsPerRound": 0.5,
+        "assistsPerRound": 0.5,
+        "headshotPercent": 0,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 3,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 1,
+        "kills": 3,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 0,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 1,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Dokkaebi",
+        "headshots": 2,
+        "teamKills": 0,
+        "matchesWon": 1,
+        "timePlayed": "1h 01m",
+        "winPercent": 50,
+        "firstBloods": 1,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 1.5,
+        "roundsPlayed": 2,
+        "timePlayedMs": 3715752,
+        "killsPerRound": 1.5,
+        "matchesPlayed": 2,
+        "deathsPerRound": 0.5,
+        "assistsPerRound": 0,
+        "headshotPercent": 66.67,
+        "matchWinPercent": 50,
+        "headshotsPerRound": 1
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 1,
+        "kills": 0,
+        "deaths": 2,
+        "losses": 1,
+        "assists": 1,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Blitz",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "22m 09s",
+        "winPercent": 50,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 2,
+        "timePlayedMs": 1329910,
+        "killsPerRound": 0,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0.5,
+        "headshotPercent": 0,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 1,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 1,
+        "kills": 1,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 0,
+        "kills1K": 1,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Azami ",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 1,
+        "timePlayed": "38m 59s",
+        "winPercent": 50,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 0,
+        "clutchesLost": 1,
+        "killsPerGame": 1,
+        "roundsPlayed": 2,
+        "timePlayedMs": 2339896,
+        "killsPerRound": 0.5,
+        "matchesPlayed": 1,
+        "deathsPerRound": 0.5,
+        "assistsPerRound": 0,
+        "headshotPercent": 0,
+        "matchWinPercent": 100,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 1,
+        "kills": 0,
+        "deaths": 2,
+        "losses": 1,
+        "assists": 1,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "IQ",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 2,
+        "timePlayed": "50m 41s",
+        "winPercent": 50,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 0,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 2,
+        "timePlayedMs": 3041338,
+        "killsPerRound": 0,
+        "matchesPlayed": 2,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0.5,
+        "headshotPercent": 0,
+        "matchWinPercent": 100,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 0,
+        "kills": 0,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 1,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Maestro",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "22m 02s",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 1,
+        "timePlayedMs": 1322792,
+        "killsPerRound": 0,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 1,
+        "headshotPercent": 0,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 0,
+        "kills": 0,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 0,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Deimos",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "25m 48s",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 1,
+        "timePlayedMs": 1548357,
+        "killsPerRound": 0,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0,
+        "headshotPercent": 0,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 0,
+        "kills": 0,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 0,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Montagne",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 1,
+        "timePlayed": "39m 03s",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 0,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 1,
+        "timePlayedMs": 2343845,
+        "killsPerRound": 0,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0,
+        "headshotPercent": 0,
+        "matchWinPercent": 100,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 1,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 0,
+        "kills": 1,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 0,
+        "kills1K": 1,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Glaz",
+        "headshots": 1,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "37m 03s",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 1,
+        "roundsPlayed": 1,
+        "timePlayedMs": 2223317,
+        "killsPerRound": 1,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0,
+        "headshotPercent": 100,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 1
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 0,
+        "kills": 0,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 0,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Alibi",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "26m 35s",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 1,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 1,
+        "timePlayedMs": 1595045,
+        "killsPerRound": 0,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0,
+        "headshotPercent": 0,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 0,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 1,
+        "kills": 0,
+        "deaths": 1,
+        "losses": 0,
+        "assists": 0,
+        "kills1K": 0,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Tachanka",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "38m 11s",
+        "winPercent": 100,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 0,
+        "roundsPlayed": 1,
+        "timePlayedMs": 2291244,
+        "killsPerRound": 0,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 0,
+        "headshotPercent": 0,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 1,
+        "aces": 0,
+        "side": "Defender",
+        "wins": 0,
+        "kills": 1,
+        "deaths": 1,
+        "losses": 1,
+        "assists": 1,
+        "kills1K": 1,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Smoke",
+        "headshots": 0,
+        "teamKills": 0,
+        "matchesWon": 0,
+        "timePlayed": "19m 58s",
+        "winPercent": 0,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 1,
+        "clutchesLost": 0,
+        "killsPerGame": 1,
+        "roundsPlayed": 1,
+        "timePlayedMs": 1198803,
+        "killsPerRound": 1,
+        "matchesPlayed": 1,
+        "deathsPerRound": 1,
+        "assistsPerRound": 1,
+        "headshotPercent": 0,
+        "matchWinPercent": 0,
+        "headshotsPerRound": 0
+      },
+      {
+        "kd": 1,
+        "aces": 0,
+        "side": "Attacker",
+        "wins": 1,
+        "kills": 1,
+        "deaths": 0,
+        "losses": 0,
+        "assists": 0,
+        "kills1K": 1,
+        "kills2K": 0,
+        "kills3K": 0,
+        "kills4K": 0,
+        "kills5K": 0,
+        "clutches": 0,
+        "operator": "Hibana",
+        "headshots": 1,
+        "teamKills": 0,
+        "matchesWon": 1,
+        "timePlayed": "30m 14s",
+        "winPercent": 100,
+        "firstBloods": 0,
+        "firstDeaths": 0,
+        "matchesLost": 0,
+        "clutchesLost": 0,
+        "killsPerGame": 1,
+        "roundsPlayed": 1,
+        "timePlayedMs": 1814078,
+        "killsPerRound": 1,
+        "matchesPlayed": 1,
+        "deathsPerRound": 0,
+        "assistsPerRound": 0,
+        "headshotPercent": 100,
+        "matchWinPercent": 100,
+        "headshotsPerRound": 1
+      }
+    ],
+    "seasonYear": "all",
+    "sessionType": "ranked",
+    "platformType": "uplay",
+    "seasonNumber": null,
+    "platform_families_full_profiles": [
+      {
+        "profile_id": "1ec02556-2ba1-4ea9-b089-812fd3f02269",
+        "board_ids_full_profiles": [
+          {
+            "board_id": "ranked",
+            "full_profiles": [
+              {
+                "season_id": 43,
+                "profile": {
+                  "rank": 15,
+                  "rank_points": 2400,
+                  "max_rank": 15,
+                  "max_rank_points": 2441,
+                  "kills": 103,
+                  "deaths": 96,
+                  "wins": 13,
+                  "losses": 11,
+                  "abandon": 0,
+                  "update_time": "0001-01-01T00:00:00+00:00"
+                },
+                "season_statistics": {
+                  "kills": 103,
+                  "deaths": 96,
+                  "match_outcomes": {
+                    "wins": 13,
+                    "losses": 11,
+                    "abandons": 0
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "data": {
+      "platformInfo": {
+        "platformSlug": "ubi",
+        "platformUserId": "1ec02556-2ba1-4ea9-b089-812fd3f02269",
+        "platformUserHandle": "Saucy_Arrow",
+        "avatarUrl": "https://ubisoft-avatars.akamaized.net/1ec02556-2ba1-4ea9-b089-812fd3f02269/default_256_256.png"
+      },
+      "metadata": {
+        "currentSeason": 43,
+        "clearanceLevel": 220,
+        "battlepassLevel": 25
+      },
+      "segments": [
+        {
+          "type": "season",
+          "attributes": {
+            "season": 43,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Split Fire",
+            "seasonName": "Split Fire",
+            "shortName": "Y11S3",
+            "color": "#f5d36c",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 24,
+              "displayValue": "24"
+            },
+            "matchesWon": {
+              "value": 13,
+              "displayValue": "13"
+            },
+            "matchesLost": {
+              "value": 11,
+              "displayValue": "11"
+            },
+            "kills": {
+              "value": 103,
+              "displayValue": "103"
+            },
+            "deaths": {
+              "value": 96,
+              "displayValue": "96"
+            },
+            "kdRatio": {
+              "value": 1.0729166666666667,
+              "displayValue": "1.07"
+            },
+            "rankPoints": {
+              "value": 2400,
+              "displayValue": "2,400"
+            },
+            "maxRankPoints": {
+              "value": 2441,
+              "displayValue": "2,441"
+            },
+            "timePlayed": {
+              "value": 190063610,
+              "displayValue": "52h"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 42,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "System Override",
+            "seasonName": "System Override",
+            "shortName": "Y11S2",
+            "color": "#fd6e72",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 18,
+              "displayValue": "18"
+            },
+            "matchesWon": {
+              "value": 14,
+              "displayValue": "14"
+            },
+            "matchesLost": {
+              "value": 4,
+              "displayValue": "4"
+            },
+            "kills": {
+              "value": 66,
+              "displayValue": "66"
+            },
+            "deaths": {
+              "value": 73,
+              "displayValue": "73"
+            },
+            "kdRatio": {
+              "value": 0.9041095890410958,
+              "displayValue": "0.90"
+            },
+            "rankPoints": {
+              "value": 1970,
+              "displayValue": "1,970"
+            },
+            "maxRankPoints": {
+              "value": 2134,
+              "displayValue": "2,134"
+            },
+            "timePlayed": {
+              "value": 162817924,
+              "displayValue": "45h"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 41,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Silent Hunt",
+            "seasonName": "Silent Hunt",
+            "shortName": "Y11S1",
+            "color": "#a0daae",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 28,
+              "displayValue": "28"
+            },
+            "matchesWon": {
+              "value": 10,
+              "displayValue": "10"
+            },
+            "matchesLost": {
+              "value": 18,
+              "displayValue": "18"
+            },
+            "kills": {
+              "value": 101,
+              "displayValue": "101"
+            },
+            "deaths": {
+              "value": 136,
+              "displayValue": "136"
+            },
+            "kdRatio": {
+              "value": 0.7426470588235294,
+              "displayValue": "0.74"
+            },
+            "rankPoints": {
+              "value": null,
+              "displayValue": null
+            },
+            "maxRankPoints": {
+              "value": 1781,
+              "displayValue": "1,781"
+            },
+            "timePlayed": {
+              "value": 231199177,
+              "displayValue": "64h"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 40,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Tenfold Pursuit",
+            "seasonName": "Tenfold Pursuit",
+            "shortName": "Y10S4",
+            "color": "#8a717a",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 88,
+              "displayValue": "88"
+            },
+            "matchesWon": {
+              "value": 49,
+              "displayValue": "49"
+            },
+            "matchesLost": {
+              "value": 38,
+              "displayValue": "38"
+            },
+            "kills": {
+              "value": 303,
+              "displayValue": "303"
+            },
+            "deaths": {
+              "value": 419,
+              "displayValue": "419"
+            },
+            "kdRatio": {
+              "value": 0.7231503579952268,
+              "displayValue": "0.72"
+            },
+            "rankPoints": {
+              "value": 1730,
+              "displayValue": "1,730"
+            },
+            "maxRankPoints": {
+              "value": 2356,
+              "displayValue": "2,356"
+            },
+            "timePlayed": {
+              "value": 696957817,
+              "displayValue": "193h"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 39,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "High Stakes",
+            "seasonName": "High Stakes",
+            "shortName": "Y10S3",
+            "color": "#b43018",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 43,
+              "displayValue": "43"
+            },
+            "matchesWon": {
+              "value": 14,
+              "displayValue": "14"
+            },
+            "matchesLost": {
+              "value": 28,
+              "displayValue": "28"
+            },
+            "kills": {
+              "value": 112,
+              "displayValue": "112"
+            },
+            "deaths": {
+              "value": 189,
+              "displayValue": "189"
+            },
+            "kdRatio": {
+              "value": 0.5925925925925926,
+              "displayValue": "0.59"
+            },
+            "rankPoints": {
+              "value": 1143,
+              "displayValue": "1,143"
+            },
+            "maxRankPoints": {
+              "value": 1645,
+              "displayValue": "1,645"
+            },
+            "timePlayed": {
+              "value": 332028836,
+              "displayValue": "92h"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 38,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Daybreak",
+            "seasonName": "Daybreak",
+            "shortName": "Y10S2",
+            "color": "#e55536",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 32,
+              "displayValue": "32"
+            },
+            "matchesWon": {
+              "value": 14,
+              "displayValue": "14"
+            },
+            "matchesLost": {
+              "value": 18,
+              "displayValue": "18"
+            },
+            "kills": {
+              "value": 127,
+              "displayValue": "127"
+            },
+            "deaths": {
+              "value": 147,
+              "displayValue": "147"
+            },
+            "kdRatio": {
+              "value": 0.8639455782312925,
+              "displayValue": "0.86"
+            },
+            "rankPoints": {
+              "value": 1863,
+              "displayValue": "1,863"
+            },
+            "maxRankPoints": {
+              "value": 1863,
+              "displayValue": "1,863"
+            },
+            "timePlayed": {
+              "value": 245050333,
+              "displayValue": "68h"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 37,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Prep Phase",
+            "seasonName": "Prep Phase",
+            "shortName": "Y10S1",
+            "color": "#e87930",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 62,
+              "displayValue": "62"
+            },
+            "matchesWon": {
+              "value": 33,
+              "displayValue": "33"
+            },
+            "matchesLost": {
+              "value": 29,
+              "displayValue": "29"
+            },
+            "kills": {
+              "value": 258,
+              "displayValue": "258"
+            },
+            "deaths": {
+              "value": 247,
+              "displayValue": "247"
+            },
+            "kdRatio": {
+              "value": 1.0445344129554657,
+              "displayValue": "1.04"
+            },
+            "rankPoints": {
+              "value": 2130,
+              "displayValue": "2,130"
+            },
+            "maxRankPoints": {
+              "value": 2161,
+              "displayValue": "2,161"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 36,
+            "gamemode": "pvp_ranked",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Collision Point",
+            "seasonName": "Collision Point",
+            "shortName": "Y9S4",
+            "color": "#c1922c",
+            "rankType": "rp"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 4,
+              "displayValue": "4"
+            },
+            "matchesWon": {
+              "value": 2,
+              "displayValue": "2"
+            },
+            "matchesLost": {
+              "value": 2,
+              "displayValue": "2"
+            },
+            "kills": {
+              "value": 17,
+              "displayValue": "17"
+            },
+            "deaths": {
+              "value": 16,
+              "displayValue": "16"
+            },
+            "kdRatio": {
+              "value": 1.0625,
+              "displayValue": "1.06"
+            },
+            "rankPoints": {
+              "value": 1134,
+              "displayValue": "1,134"
+            },
+            "maxRankPoints": {
+              "value": 1206,
+              "displayValue": "1,206"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 23,
+            "gamemode": "pvp_ranked",
+            "region": "global",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Crystal Guard",
+            "seasonName": "Crystal Guard",
+            "shortName": "Y6S3",
+            "color": "#ffa200",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "matchesWon": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "matchesLost": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 2500,
+              "displayValue": "2,500"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 15,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Ember Rise",
+            "seasonName": "Ember Rise",
+            "shortName": "Y4S3",
+            "color": "#156309",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 1,
+              "displayValue": "1"
+            },
+            "matchesWon": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "matchesLost": {
+              "value": 1,
+              "displayValue": "1"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 2340,
+              "displayValue": "2,340"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 14,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Phantom Sight",
+            "seasonName": "Phantom Sight",
+            "shortName": "Y4S2",
+            "color": "#304395",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 10,
+              "displayValue": "10"
+            },
+            "matchesWon": {
+              "value": 4,
+              "displayValue": "4"
+            },
+            "matchesLost": {
+              "value": 5,
+              "displayValue": "5"
+            },
+            "kills": {
+              "value": 34,
+              "displayValue": "34"
+            },
+            "deaths": {
+              "value": 37,
+              "displayValue": "37"
+            },
+            "kdRatio": {
+              "value": 0.918918918918919,
+              "displayValue": "0.92"
+            },
+            "mmr": {
+              "value": 2300,
+              "displayValue": "2,300"
+            },
+            "maxMmr": {
+              "value": 2300,
+              "displayValue": "2,300"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 12,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Wind Bastion",
+            "seasonName": "Wind Bastion",
+            "shortName": "Y3S4",
+            "color": "#aa854f",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 21,
+              "displayValue": "21"
+            },
+            "matchesWon": {
+              "value": 11,
+              "displayValue": "11"
+            },
+            "matchesLost": {
+              "value": 10,
+              "displayValue": "10"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 2648,
+              "displayValue": "2,648"
+            },
+            "maxMmr": {
+              "value": 2986,
+              "displayValue": "2,986"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 11,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Grim Sky",
+            "seasonName": "Grim Sky",
+            "shortName": "Y3S3",
+            "color": "#81a0c1",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 102,
+              "displayValue": "102"
+            },
+            "matchesWon": {
+              "value": 52,
+              "displayValue": "52"
+            },
+            "matchesLost": {
+              "value": 47,
+              "displayValue": "47"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 2811,
+              "displayValue": "2,811"
+            },
+            "maxMmr": {
+              "value": 3120,
+              "displayValue": "3,120"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 10,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Para Bellum",
+            "seasonName": "Para Bellum",
+            "shortName": "Y3S2",
+            "color": "#949f39",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 90,
+              "displayValue": "90"
+            },
+            "matchesWon": {
+              "value": 48,
+              "displayValue": "48"
+            },
+            "matchesLost": {
+              "value": 41,
+              "displayValue": "41"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 2781,
+              "displayValue": "2,781"
+            },
+            "maxMmr": {
+              "value": 2964,
+              "displayValue": "2,964"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 9,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Chimera",
+            "seasonName": "Chimera",
+            "shortName": "Y3S1",
+            "color": "#ffc113",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 139,
+              "displayValue": "139"
+            },
+            "matchesWon": {
+              "value": 71,
+              "displayValue": "71"
+            },
+            "matchesLost": {
+              "value": 63,
+              "displayValue": "63"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 2483,
+              "displayValue": "2,483"
+            },
+            "maxMmr": {
+              "value": 2684,
+              "displayValue": "2,684"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 8,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "White Noise",
+            "seasonName": "White Noise",
+            "shortName": "Y2S4",
+            "color": "#006543",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 230,
+              "displayValue": "230"
+            },
+            "matchesWon": {
+              "value": 110,
+              "displayValue": "110"
+            },
+            "matchesLost": {
+              "value": 116,
+              "displayValue": "116"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 2126,
+              "displayValue": "2,126"
+            },
+            "maxMmr": {
+              "value": 2819,
+              "displayValue": "2,819"
+            }
+          }
+        },
+        {
+          "type": "season",
+          "attributes": {
+            "season": 7,
+            "gamemode": "pvp_ranked",
+            "region": "ncsa",
+            "sessionType": "ranked"
+          },
+          "metadata": {
+            "name": "Blood Orchid",
+            "seasonName": "Blood Orchid",
+            "shortName": "Y2S3",
+            "color": "#ca361c",
+            "rankType": "mmr"
+          },
+          "stats": {
+            "matchesPlayed": {
+              "value": 59,
+              "displayValue": "59"
+            },
+            "matchesWon": {
+              "value": 24,
+              "displayValue": "24"
+            },
+            "matchesLost": {
+              "value": 29,
+              "displayValue": "29"
+            },
+            "kills": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "deaths": {
+              "value": 0,
+              "displayValue": "0"
+            },
+            "kdRatio": {
+              "value": 0,
+              "displayValue": "0.00"
+            },
+            "mmr": {
+              "value": 1710,
+              "displayValue": "1,710"
+            },
+            "maxMmr": {
+              "value": 2743,
+              "displayValue": "2,743"
+            }
+          }
+        }
+      ]
+    },
+    "totalsHoursPlayed": {
+      "hours": 516,
+      "totalMs": 1858117697,
+      "segmentsCounted": 6
+    }
+  }
+}

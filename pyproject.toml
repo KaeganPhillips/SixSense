@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sixsense"
+version = "0.1.0"
+description = "Predicts the Rainbow Six Siege rank a player's individual skill deserves, independent of their teammates."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Kaegan Phillips" }]
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "ruff>=0.6",
+]
+
+[project.urls]
+Repository = "https://github.com/KaeganPhillips/SixSense"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/sixsense"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 79
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+# pycodestyle errors, pyflakes, import sorting, bugbear
+select = ["E", "F", "I", "B"]
+
+[tool.ruff.lint.isort]
+lines-after-imports = 1

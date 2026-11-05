@@ -1,0 +1,27 @@
+# collected and processed data is never committed (see data/README.md)
+data/*
+!data/README.md
+
+# secrets
+.env
+
+# virtual environments
+venv/
+.venv/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# tooling
+.pytest_cache/
+.ruff_cache/
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
